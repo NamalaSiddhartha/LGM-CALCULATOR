@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(53, 240, 6);
+}
+table {
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 8px;
+    background-color: rgb(189, 231, 238);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input[type="button"] {
+    width: 80%;
+    padding: 10px 30px;
+    background-color: rgb(7, 7, 7);
+    color: rgb(249, 233, 89);
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 200px;
+}
+
+input[type="text"] {
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 150px;
+    border: 3px solid rgb(5, 132, 250);
+}
+#button{
+    background-color: rgb(233, 17, 10);
+}
+#eq{
+    background-color: rgb(236, 8, 8); 
+}
+.result{
+    background-color: rgb(250, 249, 228);
+}
